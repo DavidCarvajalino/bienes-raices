@@ -1,0 +1,17 @@
+{
+    "name": "usuario/bienesraices",
+    "description": "Creando un proyecto con POO",
+    "type": "project",
+    "authors": [
+        {
+            "name": "DavidCarvajalino",
+            "email": "ecarvajalinoesteban@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "./classes"
+        }
+    }
+}
